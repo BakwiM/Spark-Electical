@@ -35,7 +35,7 @@ header::before {
 
     background:
         linear-gradient(rgba(30,47,91,0.75), rgba(30,47,91,0.75)),
-        url('./Background image.jpg');
+        url('./Background Image.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
